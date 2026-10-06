@@ -76,7 +76,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "pagy", "~> 43.6"
+gem "pagy", "~> 43.7"
 gem "ransack", "~> 5.0"
 gem "sidekiq", "~> 8.1"
 gem "pundit", "~> 2.5"
