@@ -77,6 +77,6 @@ group :test do
 end
 
 gem "pagy", "~> 43.6"
-gem "ransack", "~> 5.0"
+gem "ransack", "~> 6.0"
 gem "sidekiq", "~> 8.1"
 gem "pundit", "~> 2.5"
